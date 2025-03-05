@@ -3,7 +3,7 @@
 ## Overview
 This LabVIEW program enables the connection of a CV-27 Bioanalytical Systems Voltammograph to a National Instruments (NI) data acquisition (DAQ) card for performing Square Wave Voltammetry (SWV) measurements. The software allows users to configure essential SWV parameters, view real-time raw data (current and voltage), and visualize the processed data as an SWV graph. Additionally, users can save the acquired data for further analysis.
 
-This code is developed for use in CHEM 426/526 Instrumental Analysis at the University of Washington. It is intended for educational and research purposes, enabling students and researchers to conduct electrochemical analysis efficiently.
+This code is developed for use in CHEM 426/526 Instrumental Analysis at the University of Washington.
 
 ## Features
 - **Potentiostat Connection**: Seamlessly interfaces with a National Instruments DAQ card.

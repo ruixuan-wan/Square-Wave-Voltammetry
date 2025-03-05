@@ -1,4 +1,3 @@
-# Square-Wave-Voltammetry
 # LabVIEW Square Wave Voltammetry (SWV) Program
 
 ## Overview

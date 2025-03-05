@@ -11,11 +11,6 @@ This code is developed for use in CHEM 426/526 Instrumental Analysis at the Univ
 - **Real-Time Data Display**: View both raw current/voltage data and processed SWV graphs.
 - **Data Saving**: Export measurement results for further analysis.
 
-## System Requirements
-- LabVIEW (version X or later)
-- National Instruments DAQ card (compatible with your potentiostat)
-- Potentiostat capable of running SWV
-
 ## Installation
 1. Ensure that LabVIEW and NI-DAQ drivers are installed on your system.
 2. Connect the potentiostat to the NI DAQ card: Iout and App.E are connected to selected AI ports on the NI-DAQ card, Ext. in needs to be connected to selected AO port on the NI-DAQ card. 

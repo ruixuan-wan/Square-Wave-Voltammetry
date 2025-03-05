@@ -6,7 +6,6 @@ This LabVIEW program enables the connection of a CV-27 Bioanalytical Systems Vol
 This code is developed for use in CHEM 426/526 Instrumental Analysis at the University of Washington.
 
 ## Features
-- **Potentiostat Connection**: Seamlessly interfaces with a National Instruments DAQ card.
 - **SWV Measurement**: Configure and execute Square Wave Voltammetry with adjustable parameters.
 - **Real-Time Data Display**: View both raw current/voltage data and processed SWV graphs.
 - **Data Saving**: Export measurement results for further analysis.
